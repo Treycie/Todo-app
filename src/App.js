@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "./components/header";
-import Addtodo from "./components/add todo";
+import Addtodo from "./components/add-todo";
 import Todolist from "./components/todo-list";
 
 

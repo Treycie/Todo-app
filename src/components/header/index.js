@@ -1,10 +1,11 @@
+import styles from './index.module.css'
 function Header() {
     return(
-        <section>
-            <h1>
-                TODO
+        <header className={styles.headerImage}>
+            <h1 className={styles.h1}>
+                TODO APP
             </h1>
-        </section>
+        </header>
         
         
     );
